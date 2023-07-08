@@ -122,7 +122,7 @@ A user files a bug in English.
 Some comments go by.
 
 Eventually two of users commenting in the bug discover that they both
-speak some non-English langauge and switch all the dialogue in that
+speak some non-English language and switch all the dialogue in that
 bug to that language. It's spread in forums by users speaking that
 language and more people speaking that language start participating.
 
