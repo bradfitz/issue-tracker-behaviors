@@ -123,8 +123,8 @@ Some comments go by.
 
 Eventually two of users commenting in the bug discover that they both
 speak some non-English langauge and switch all the dialogue in that
-bug to that language. It's spread in forums by speaking that language
-and more people speaking that language start participating.
+bug to that language. It's spread in forums by users speaking that
+language and more people speaking that language start participating.
 
 Now the original people who filed the bug (in English) have to do the
 copy/paste translation because the issue tracker doesn't have built-in
