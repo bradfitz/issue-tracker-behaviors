@@ -12,7 +12,7 @@ the internet. This page documents some of the most commonly seen bad
 behavior on public issue trackers. (and why many people prefer private bug
 trackers)
 
-Pull requests welcome to add more. I surely forgot a bunch.
+Pull requests or issues welcome to add more. I surely forgot a bunch.
 
 # Behaviors
 
@@ -51,8 +51,12 @@ in it "not working".
 * "Any news on this?"
 
 If there was an update we would've posted an update. We were just
-waiting for the forty seventh person to ask! But now that you're here,
-here's an update...
+waiting for the forty-seventh person to ask! But now that you're here,
+here's an update!
+
+(if it's been a year, sure. But we don't need somebody pinging the bug
+for updates daily or weekly.)
+
 
 ## Any workaround?
 
@@ -81,3 +85,62 @@ The person filing the bug answers none of them.
 
 But, uh, "it doesn't work".
 
+## XY Problem
+
+See https://xyproblem.info/
+
+Somebody files a bug asking for X, omitting what their real problem
+is, but thinking that X would help with their problem. Usually they
+don't understand the problem enough and are asking for the wrong
+thing.
+
+Start with your problem.
+
+## Just add an option!
+
+The project doesn't want a hundred configuration knobs. That's a
+usability and testing disaster: users need to learn all the options
+and how they interact, and project maintainers need to set up tests to
+test every combination of them.
+
+So the project instead tries to do the right thing automatically,
+configuration free.
+
+But users inevitably don't want to wait for the right fix and instead say:
+
+* "Just add an option!"
+
+Just.
+
+## The locals find each other
+
+The project is primarily in one language (inevitably English): its
+website, its docs, its bug tracker are all in English.
+
+A user files a bug in English.
+
+Some comments go by.
+
+Eventually two of users commenting in the bug discover that they both
+speak some non-English langauge and switch all the dialogue in that
+bug to that language. It's spread in forums by speaking that language
+and more people speaking that language start participating.
+
+Now the original people who filed the bug (in English) have to do the
+copy/paste translation because the issue tracker doesn't have built-in
+translation. (It's 2023. They should. But maybe they don't want to pay
+for it.)
+
+This is regrettable (people should ideally be able to use their
+preferred language and participate), but it's really annoying for
+project maintainers when their issues are taken over and had the
+language changed on them. Better tooling by issue trackers & browsers
+would help here.
+
+## Wants the opposite.
+
+The project says "This is **foo**, specifically for **bar**. It
+specifically does not do **baz** because the following reasons."
+
+User shows up in the issue tracker: "Hey, I really like **foo**! How
+about you add **baz**? It would be great!"
