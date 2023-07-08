@@ -11,7 +11,7 @@ It focuses on the negative behaviors.
 User shows up adding no new information, just:
 
 * "+1"
-" "me too"
+* "me too"
 * "i also see this"
 
 No version numbers, no logs, nothing.
@@ -48,7 +48,7 @@ here's an update...
 
 User asks for a "workaround" on a bug that clearly has no
 workaround. Maybe it's a feature request or a crash that's affecting
-nearly everybody, but the user wants to a workaround.
+everybody, but the user wants a "workaround".
 
 ## The negger
 
