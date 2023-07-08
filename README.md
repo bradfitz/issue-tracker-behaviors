@@ -1,8 +1,18 @@
-# Issue Tracker Behaviors
+# Public Issue Tracker Behaviors
 
-This page documents commonly seen behavior on public issue trackers.
+I've been involved in FOSS communities for over 25 years now. I've
+used a handful of different bug trackers and worked on and created a
+ton projects, often acting as the bug triage person.
 
-It focuses on the negative behaviors.
+I've also worked inside companies with private bug trackers.
+
+Private bug trackers and public bug trackers are vastly
+different. Public bug trackers are full of the best and the worst of
+the internet. This page documents some of the most commonly seen bad
+behavior on public issue trackers. (and why many people prefer private bug
+trackers)
+
+Pull requests welcome to add more. I surely forgot a bunch.
 
 # Behaviors
 
@@ -55,3 +65,19 @@ everybody, but the user wants a "workaround".
 * "I can't believe you don't have this yet. That's ridiculous. All
   your competitors can do X, so I guess I'll just have to go use
   something else."
+
+## The duper
+
+Files duplicate bug without doing any search ahead of time to see if
+the bug was already filed. I don't expect people to be perfect and
+find a possible dup bug every time, but I expect you to try for 10
+seconds first.
+
+## The template ignorer
+
+The bug template asks a bunch of questions.
+
+The person filing the bug answers none of them.
+
+But, uh, "it doesn't work".
+
