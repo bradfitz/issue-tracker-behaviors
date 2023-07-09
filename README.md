@@ -157,3 +157,19 @@ specifically does not do **baz** because the following reasons."
 
 User shows up in the issue tracker: "Hey, I really like **foo**! How
 about you add **baz**? It would be great!"
+
+## The cookie licker
+
+* "Can I work on this?"
+
+... then proceeds to never work on it.
+
+(courtesy @jakebailey)
+
+## The At-er
+
+`@`-mentions a bunch of project contributors, hoping to get more
+attention to their issue.
+
+(BTW, if you ever need attention on an issue, be sure to mention
+@jakebailey who suggested this item)
