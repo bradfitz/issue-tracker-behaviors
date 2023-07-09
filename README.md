@@ -112,6 +112,19 @@ But users inevitably don't want to wait for the right fix and instead say:
 
 Just.
 
+## The lazy pull request
+
+Somebody opens a pull request adding a feature or bug fix, but in
+doing so ...
+
+* implements an unwanted feature with no discussion
+* provides no description in the pull request
+* breaks existing functionality that doesn't apply to them
+* breaks test cases and does not address them
+* fails to provide coverage in new test cases
+* does not update documentation
+* expects maintainers to "take it from here"
+
 ## The locals find each other
 
 The project is primarily in one language (inevitably English): its
