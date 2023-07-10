@@ -173,3 +173,13 @@ attention to their issue.
 
 (BTW, if you ever need attention on an issue, be sure to mention
 @jakebailey who suggested this item)
+
+## The Blaster
+
+User files a bug,
+
+... but also emails the user list, the core developer list, posts to
+Twitter, posts to Reddit, asks on Stackoverflow, emails support,
+emails sales, privately DMs some core developers ....
+
+_STOP._
