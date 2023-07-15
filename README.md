@@ -182,11 +182,11 @@ User files a bug,
 Twitter, posts to Reddit, asks on Stackoverflow, emails support,
 emails sales, privately DMs some core developers ....
 
+_STOP._
+
 ## The novelist
 
 User files a bug, maintainers asks for minimal reproduction test.
 User does _NOT_ provide test case, instead opts to write out an entire short story on what he belives is happening, starting at his childhood, a mysterious problem that he encountered and the wonderous half-human, half-lizard being that helped his way through trying to fix the problem, a story full of allegory, but zero code.
 
-Maintainers still have no idea what the bug really is, because they don't understand what the user did
-
-_STOP._
+Maintainers still have no idea what the bug really is, because they don't understand what the user did.
