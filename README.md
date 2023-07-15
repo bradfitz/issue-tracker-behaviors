@@ -183,3 +183,9 @@ Twitter, posts to Reddit, asks on Stackoverflow, emails support,
 emails sales, privately DMs some core developers ....
 
 _STOP._
+
+## The license warrior
+
+"Hey this looks great but I noticed this repo has no license have you considered adding X license ok thnx bye!"
+
+Generally never shows up again. May sometimes submit a PR for a license with themselves as the copyright holder, or worse, may only change the year to the current year on an existing license. 
