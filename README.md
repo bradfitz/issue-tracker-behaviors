@@ -188,4 +188,4 @@ _STOP._
 
 Makes a sensible suggestion...
 
-...but writes all his comments in Anime/OwO-language (Even error messages and code excerpts)
+...but wwites all his comments in OwO-langwage (Ewen ewwow messages and code excewpts)
