@@ -188,4 +188,4 @@ _STOP._
 
 "Hey this looks great but I noticed this repo has no license have you considered adding X license ok thnx bye!"
 
-Generally never shows up again. May sometimes submit a PR for a license with themselves as the copyright holder, or worse, may only change the year to the current year on an existing license. 
+Generally, this user never shows up again. They may sometimes submit a PR for a license with themselves as the copyright holder, or worse, may only change the year to the current year on an existing license. They also may ask for a change of license, without showing any inclination that they'll use it either or and without appreciating the choices of the person who chose the license in the first place. 
