@@ -183,3 +183,9 @@ Twitter, posts to Reddit, asks on Stackoverflow, emails support,
 emails sales, privately DMs some core developers ....
 
 _STOP._
+
+## The OwO
+
+Makes a sensible suggestion...
+
+...but wwites all his comments in OwO-langwage (Ewen ewwow messages and code excewpts)
