@@ -183,3 +183,9 @@ Twitter, posts to Reddit, asks on Stackoverflow, emails support,
 emails sales, privately DMs some core developers ....
 
 _STOP._
+
+## The OwO
+
+Makes a sensible suggestion...
+
+...but writes all his comments in Anime/OwO-language (Even error messages and code excerpts)
