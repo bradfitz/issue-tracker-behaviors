@@ -16,7 +16,7 @@ Pull requests or issues welcome to add more. I surely forgot a bunch.
 
 # Behaviors
 
-## Me too, plus one
+## <a href="#me-too-plus-one"></a>Me too, plus one
 
 User shows up adding no new information, just:
 
@@ -28,7 +28,7 @@ No version numbers, no logs, nothing.
 
 User has not learned to use the emoji reactions yet. (Please learn.)
 
-## Subscribing via comments
+## <a href="#subscribing-via-comments"></a>Subscribing via comments
 
 * "just leaving a comment to watch this bug"
 
@@ -37,7 +37,7 @@ And you just spammed everybody else watching this bug.
 There's a "subscribe" button to get notified over on the right. Push
 that instead.
 
-## Back from the dead
+## <a href="#back-from-the-dead"></a>Back from the dead
 
 User comments on ancient closed issue saying they're "also seeing
 this", without saying what "this" is. They probably found one common
@@ -45,7 +45,7 @@ symptom ("it doesn't work") and decided that an Android crash from 3
 years ago is the same as their Windows issues, because both resulted
 in it "not working".
 
-## Any update?
+## <a href="#any-update"></a>Any update?
 
 * "Any update?"
 * "Any news on this?"
@@ -58,26 +58,26 @@ here's an update!
 for updates daily or weekly.)
 
 
-## Any workaround?
+## <a href="#any-workaround"></a>Any workaround?
 
 User asks for a "workaround" on a bug that clearly has no
 workaround. Maybe it's a feature request or a crash that's affecting
 everybody, but the user wants a "workaround".
 
-## The negger
+## <a href="#the-negger"></a>The negger
 
 * "I can't believe you don't have this yet. That's ridiculous. All
   your competitors can do X, so I guess I'll just have to go use
   something else."
 
-## The duper
+## <a href="#the-duper"></a>The duper
 
 Files duplicate bug without doing any search ahead of time to see if
 the bug was already filed. I don't expect people to be perfect and
 find a possible dup bug every time, but I expect you to try for 10
 seconds first.
 
-## The template ignorer
+## <a href="#the-template-ignorer"></a>The template ignorer
 
 The bug template asks a bunch of questions.
 
@@ -85,7 +85,7 @@ The person filing the bug answers none of them.
 
 But, uh, "it doesn't work".
 
-## XY Problem
+## <a href="#xy-problem"></a>XY Problem
 
 See https://xyproblem.info/
 
@@ -96,7 +96,7 @@ thing.
 
 Start with your problem.
 
-## Just add an option!
+## <a href="#xy-problem"></a>Just add an option!
 
 The project doesn't want a hundred configuration knobs. That's a
 usability and testing disaster: users need to learn all the options
@@ -112,7 +112,7 @@ But users inevitably don't want to wait for the right fix and instead say:
 
 Just.
 
-## The lazy pull request
+## <a href="#the-lazy-pull-request"></a>The lazy pull request
 
 Somebody opens a pull request adding a feature or bug fix, but in
 doing so ...
@@ -125,7 +125,7 @@ doing so ...
 * does not update documentation
 * expects maintainers to "take it from here"
 
-## The locals find each other
+## <a href="#the-locals-find-each-other"></a>The locals find each other
 
 The project is primarily in one language (inevitably English): its
 website, its docs, its bug tracker are all in English.
@@ -150,7 +150,7 @@ project maintainers when their issues are taken over and had the
 language changed on them. Better tooling by issue trackers & browsers
 would help here.
 
-## Wants the opposite.
+## <a href="#wants-the-opposite"></a>Wants the opposite.
 
 The project says "This is **foo**, specifically for **bar**. It
 specifically does not do **baz** because the following reasons."
@@ -158,7 +158,7 @@ specifically does not do **baz** because the following reasons."
 User shows up in the issue tracker: "Hey, I really like **foo**! How
 about you add **baz**? It would be great!"
 
-## The cookie licker
+## <a href="#the-cookie-licker"></a>The cookie licker
 
 * "Can I work on this?"
 
@@ -166,7 +166,7 @@ about you add **baz**? It would be great!"
 
 (courtesy @jakebailey)
 
-## The At-er
+## <a href="#the-at-er"></a>The At-er
 
 `@`-mentions a bunch of project contributors, hoping to get more
 attention to their issue.
@@ -174,7 +174,7 @@ attention to their issue.
 (BTW, if you ever need attention on an issue, be sure to mention
 @jakebailey who suggested this item)
 
-## The Blaster
+## <a href="#the-blaster"></a>The Blaster
 
 User files a bug,
 
@@ -184,7 +184,7 @@ emails sales, privately DMs some core developers ....
 
 _STOP._
 
-## The novelist
+## <a href="#the-novelist"></a>The novelist
 
 User files a bug, maintainers asks for minimal reproduction test.
 User does _NOT_ provide test case, instead opts to write out an entire short story on what he belives is happening, starting at his childhood, a mysterious problem that he encountered and the wonderous half-human, half-lizard being that helped his way through trying to fix the problem, a story full of allegory, but zero code.
