@@ -190,3 +190,11 @@ User files a bug, maintainers asks for minimal reproduction test.
 User does _NOT_ provide test case, instead opts to write out an entire short story on what he belives is happening, starting at his childhood, a mysterious problem that he encountered and the wonderous half-human, half-lizard being that helped his way through trying to fix the problem, a story full of allegory, but zero code.
 
 Maintainers still have no idea what the bug really is, because they don't understand what the user did.
+
+## Doomsayers
+
+User files a bug with a _dramatically_ exaggerated description,
+such as "Does not work with Python".
+
+Even if dismissed/closed, maintainers need to clean it up so that
+future users don't find it in search results and get the wrong impression.
